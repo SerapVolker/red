@@ -1,0 +1,98 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.nevbar-hair{
+ margin-left: -50px;
+ margin-top: -20px;
+}
+.logo{
+margin-top: -115px;
+}
+.news{
+  color: #ffffff;
+  margin-top:-85px;
+  margin-left: 1050px;
+  font-size: 40px;
+}
+.me{
+  color: #ffffff;
+  margin-top:-47px;
+  margin-left: 1250px;
+  font-size: 40px;
+}
+.new{
+  color: #ffffff;
+  margin-top:-47px;
+  margin-left: 1400px;
+  font-size: 40px;
+}
+.contact{
+  color: #ffffff;
+  margin-top:-47px;
+  margin-left: 1600px;
+  font-size: 40px;
+}
+.basket{
+  margin-left: 1800px;
+  margin-top:-43px;
+}
+.point{
+  margin-left: 1840px;
+  margin-top:-30px;
+}
+.one{
+  color: #ffffff;
+  margin-top:-33px;
+  margin-left: 1849px;
+  font-size: 25px;
+}
+.photo{
+  margin-left: 900px;
+  margin-top: 70px;
+}
+.block{
+  margin-left: 400px;
+  margin-top: -600px;
+}
+.style{
+  font-size: 50px;
+  margin-top: -330px;
+  margin-left: 480px;
+}
+.button{
+  margin-left: 550px;
+  margin-top: 70px;
+  color: #ffffff;
+}
+.text1{
+  font-size: 50px;
+  margin-top: -80px;
+  margin-left: 15px;
+}
+.basement{
+margin-top: 243px;
+
+}
+.number{
+  margin-top: -400px;
+  margin-left: 100px;
+  font-size: 30px;
+  color: #ffffff;
+}
+.numb{
+    color: #fff5f5;
+    margin-top: 60px;
+    font-size: 30px;
+    margin-left: 100px;
+}
+.man{
+  color: rgb(255, 255, 255);
+  margin-left: 600px;
+  font-size: 30px;
+  margin-top: -130px;
+}
+.woman{
+  color: rgb(255, 255, 255);
+  margin-left: 600px;
+  margin-top: 60px;
+  font-size: 30px;
+}
